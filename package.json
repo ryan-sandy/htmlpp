@@ -1,0 +1,23 @@
+{
+  "name": "onePage",
+  "version": "0.0.0",
+  "description": "OnePage is a html preprocessor that glues smaller html pages into one.",
+  "main": "onePage.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryan-sandy/onePage.git"
+  },
+  "keywords": [
+    "html",
+    "preprocessor"
+  ],
+  "author": "Ryan Lee",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "65c6f9769667adbd81fd6bf5e427818bbc535e90"
+}
