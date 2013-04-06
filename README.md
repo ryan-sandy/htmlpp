@@ -1,7 +1,7 @@
-﻿onePage
+﻿HTML-PreProcessor
 =======
 
-OnePage is a html preprocessor that glues smaller html pages into one.
+HTMLpp is a html preprocessor that glues smaller html pages into one large page.
 
 Usage
 ====

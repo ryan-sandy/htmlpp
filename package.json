@@ -1,16 +1,15 @@
 {
-  "name": "onePage",
-  "version": "0.0.0",
-  "description": "OnePage is a html preprocessor that glues smaller html pages into one.",
+  "name": "htmlpp",
+  "version": "0.1.0",
+  "description": "HTMLpp is a html preprocessor that glues smaller html pages into one larger file.",
   "main": "onePage.js",
   "directories": {
     "test": "test"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/ryan-sandy/onePage.git"
+    "url": "git://github.com/ryan-sandy/htmlpp.git"
   },
   "keywords": [
     "html",
