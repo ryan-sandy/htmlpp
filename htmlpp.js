@@ -65,7 +65,7 @@ var printHelp = function () {
 
 for (i = 0; i < opts.length; i += 1) {
   if (opts[i][0] === '-') {
-    switch (opts[i][1]) {
+    switch (opts[i].slice(1)) {
     case 'o':
       i += 1;
       set.outfile = opts[i];

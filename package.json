@@ -1,6 +1,6 @@
 {
   "name": "htmlpp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HTMLpp is a html preprocessor that glues smaller html pages into one larger file.",
   "main": "onePage.js",
   "directories": {
